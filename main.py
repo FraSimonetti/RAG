@@ -10,7 +10,8 @@ BASE_API_URL = "https://api.langflow.astra.datastax.com"
 LANGFLOW_ID = "47be4459-abd0-4038-84ee-be66a726a1dd"
 FLOW_ID = "67f25f1b-ecb1-43e4-955f-cf74fa839970"
 
-APPLICATION_TOKEN = os.environ.get("APP_TOKEN")
+APPLICATION_TOKEN = "AstraCS:sAufLEvbLABxgaOaEkJkzllw:c190f1e6414c3863ae94e78d0c346af3ecae64a32936981866e867a326d10b99"
+
 ENDPOINT = "Customer_FAQ"  # The endpoint name of the flow
 
 
